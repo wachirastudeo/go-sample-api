@@ -1,5 +1,8 @@
 basePath: /
-host: localhost:7070
+# host:localhost:8080
+# host: localhost:7070
+#render 
+host:go-sample-api-42ch.onrender.com
 info:
   contact:
     email: support@swagger.io
